@@ -1,5 +1,5 @@
 # site settings
-title: Schano Studio
+title: Studio Schano
 subtitle: 
 email: website-request@schano.studio
 description: Outsystems consulting for your enterprise needs.
@@ -24,7 +24,7 @@ tiles-count: 6
 socials:
   GitHub: https://github.com/andrewbanchich
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus: https://www.outsystems.com/profile/xuz2sn8a8p/overview
   Instagram:
   LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
   Twitter: https://twitter.com/andrewbanchich
