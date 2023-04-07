@@ -2,16 +2,16 @@
 title: Studio Schano
 subtitle: 
 email: website-request@schano.studio
-description: Outsystems consulting for your enterprise needs.
+description: Outsystems consulting for your enterprise needs
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "/" # the base hostname & protocol for your site
+url: "https://schano.studio" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address:
+city:
+state: 
+zip_code:
+country:
+phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,12 +22,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub:
   GitLab:
-  Google-Plus: https://www.outsystems.com/profile/xuz2sn8a8p/overview
+  OutSystems: https://www.outsystems.com/profile/xuz2sn8a8p/overview
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn: https://www.linkedin.com/in/vasil-molaliyski/
+  Twitter:
   Facebook:
   Slack:
 
