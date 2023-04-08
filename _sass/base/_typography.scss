@@ -177,5 +177,9 @@
 	}
 	.darktext {
 		color:_palette(bg);
-		border-bottom: solid 1px _palette(bg);
+		
+		&:first-child::after {
+			background-color: #303d4a;
+		}
+			
 	}
