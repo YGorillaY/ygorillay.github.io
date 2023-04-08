@@ -29,17 +29,17 @@
 					<a href="mailto:{{ site.email }}">{{ site.email }}</a>
 				</div>
 			</section>
-			<section>
+			<!-- <section>
 				<div class="contact-method">
 					<span class="icon alt fa-phone"></span>
 					<h3>Phone</h3>
 					<a href="tel:{{ site.phone }}">{{ site.phone }}</a>
 				</div>
-			</section>
+			</section> -->
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-home"></span>
-					<h3>Address</h3>
+					<span class="icon alt fa-solid fa-location-dot"></span>
+					<h3>Nürnberg, Germany</h3>
 					<span>
 					{% if site.street_address %}
 					    {{ site.street_address }}<br />
@@ -76,11 +76,16 @@
 						</li>
 					{% endif %}
 				{% endfor %}
+				<li> 
+					<a href="https://www.outsystems.com/profile/xuz2sn8a8p/overview" class="icon alt fa-circle" target="_blank" rel="noopener noreferrer" aria-label="OutSystems Profile">
+					<span class="label">OutSystems Profile</span>
+					</a>
+				</li>
 			</ul>
 			<ul class="copyright">
 				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
-				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
-				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
+				<!-- <li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
+				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li> -->
 
 			</ul>
 		</div>
