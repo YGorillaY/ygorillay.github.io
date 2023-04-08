@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Outsystems Consulting for your Enterprise Needs'
+landing-title: 'OutSystems Consulting for your Enterprise Needs'
 description: null
 image: null
 author: null
