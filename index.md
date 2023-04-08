@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Be Schano'
+landing-title: 'Outsystems Consulting for your Enterprise Needs'
 description: null
 image: null
 author: null
