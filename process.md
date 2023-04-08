@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Process analysis and automation
+title: Process Analysis and Automation
 image: null
 nav-menu: true
 ---
