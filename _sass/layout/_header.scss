@@ -48,6 +48,9 @@
 				margin-right: 0.325em;
 				padding: 0 0.125em 0 (_font(letter-spacing-alt) + 0.125em);
 			}
+			a {
+				color: none;
+			}
 
 			&:hover {
 				strong {
