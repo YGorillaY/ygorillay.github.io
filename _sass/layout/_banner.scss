@@ -40,10 +40,6 @@
 			z-index: 1;
 		}
 
-		h1 {
-			font-size: 3.25em;
-		}
-
 		> .inner {
 			@include vendor('transition', (
 				'opacity 1.5s ease',
