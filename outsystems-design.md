@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Turnkey OutSystems design and development
+title: Turnkey OutSystems Design & Development
 description: null
 image: null
 nav-menu: true
