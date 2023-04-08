@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Outsystems consulting
+title: OutSystems Consulting
 image: null
 nav-menu: true
 description: Testing, Architecture, Best Practices
